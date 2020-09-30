@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sylver.Network.SourceRCON", "Sylver.Network.SourceRCON\Sylver.Network.SourceRCON.csproj", "{00DC5E2D-AF34-476D-9370-4CD2D9D12744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sylver.Network.SourceRCON.Tests", "Sylver.Network.SourceRCON.Tests\Sylver.Network.SourceRCON.Tests.csproj", "{79A0C8DC-39FA-49B9-9128-25E0607828C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DC5E2D-AF34-476D-9370-4CD2D9D12744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DC5E2D-AF34-476D-9370-4CD2D9D12744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DC5E2D-AF34-476D-9370-4CD2D9D12744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DC5E2D-AF34-476D-9370-4CD2D9D12744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A0C8DC-39FA-49B9-9128-25E0607828C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A0C8DC-39FA-49B9-9128-25E0607828C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A0C8DC-39FA-49B9-9128-25E0607828C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A0C8DC-39FA-49B9-9128-25E0607828C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F7A40F-55F3-47E8-8E3A-5814E92C738C}
+	EndGlobalSection
+EndGlobal
